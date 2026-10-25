@@ -1,0 +1,102 @@
+[
+  {
+    "sample": 2,
+    "reference": 0,
+    "file": "assets/audio/2_ref0.wav",
+    "duration_seconds": 8.522,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 1503310,
+    "sha256": "d917261070641a1cf081867a98960ddb6b0839c715d76cb20b3d9a47e1e9fb34"
+  },
+  {
+    "sample": 2,
+    "reference": 1,
+    "file": "assets/audio/2_ref1.wav",
+    "duration_seconds": 10.0,
+    "sample_rate": 16000,
+    "channels": 1,
+    "size_bytes": 320044,
+    "sha256": "83d84826625d87e2b9fe3a9fa415784d980fd11f7478db4726c2a39d84d15c7c"
+  },
+  {
+    "sample": 9,
+    "reference": 0,
+    "file": "assets/audio/9_ref0.wav",
+    "duration_seconds": 9.683,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 1708080,
+    "sha256": "5f19160189c65c0ddfdb960ca3ef24f5d1e124fa4edb68b97a8440cb53dba6a5"
+  },
+  {
+    "sample": 9,
+    "reference": 1,
+    "file": "assets/audio/9_ref1.wav",
+    "duration_seconds": 6.502,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 1146928,
+    "sha256": "992e2a450e18cfaad2f077f9a47e236a912be9a87c885eed804955de8189df36"
+  },
+  {
+    "sample": 36,
+    "reference": 0,
+    "file": "assets/audio/36_ref0.wav",
+    "duration_seconds": 8.522,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 1503280,
+    "sha256": "c6cc7db66cce26a3867d1eea8f6451aac789d3bca724e9616a8923b04004896c"
+  },
+  {
+    "sample": 36,
+    "reference": 1,
+    "file": "assets/audio/36_ref1.wav",
+    "duration_seconds": 7.547,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 1331248,
+    "sha256": "e57a1518cd8dcd5423263cce92f0492d46a49b61f1835aad1a02484f1c3c1e36"
+  },
+  {
+    "sample": 39,
+    "reference": 0,
+    "file": "assets/audio/39_ref0.wav",
+    "duration_seconds": 6.92,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 1220656,
+    "sha256": "5da46c3e4a190153b4673b4c41e6172f775a24ef20802d8dd6082f9e3353485e"
+  },
+  {
+    "sample": 39,
+    "reference": 1,
+    "file": "assets/audio/39_ref1.wav",
+    "duration_seconds": 7.384,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 1302576,
+    "sha256": "e79f62423acb4c8f3d4bfea2024fdd8250d412629a48e62e6fbef8ef3ef94ba6"
+  },
+  {
+    "sample": 40,
+    "reference": 0,
+    "file": "assets/audio/40_ref0.wav",
+    "duration_seconds": 9.776,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 1724464,
+    "sha256": "9d6dac6e598c8a316ef54ac477f667529cddd099d296f40fb31c364bbc5360f5"
+  },
+  {
+    "sample": 40,
+    "reference": 1,
+    "file": "assets/audio/40_ref1.wav",
+    "duration_seconds": 9.195,
+    "sample_rate": 44100,
+    "channels": 2,
+    "size_bytes": 1622064,
+    "sha256": "a74e7f60b9c67f7cb7d4b7b70778771c7812784e8d1c82f81d04aa4f40a4a53a"
+  }
+]

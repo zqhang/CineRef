@@ -1,0 +1,12 @@
+.DS_Store
+.workbuddy/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+*.log

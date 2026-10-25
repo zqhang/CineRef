@@ -1,0 +1,358 @@
+[
+  {
+    "sample": 9,
+    "video": "assets/videos/9.mp4",
+    "poster": "assets/posters/9.jpg",
+    "duration_seconds": 15.041667,
+    "width": 1344,
+    "height": 768,
+    "fps": "24/1",
+    "codec": "h264",
+    "audio_codecs": [
+      "aac"
+    ],
+    "size_bytes": 5989102,
+    "sha256": "cfbb886250e8b42fbb894a7cb880d225a148515304945e0e3d6bbf174a69eba6",
+    "references": [
+      {
+        "slot": 0,
+        "image": "assets/references/9_ref0.png",
+        "audio": "assets/audio/9_ref0.wav",
+        "width": 512,
+        "height": 512,
+        "sha256": "2fb1a1766c2af2d5db9af90f089646a081a730a161b7142bb8edfa0b11fd907f"
+      },
+      {
+        "slot": 1,
+        "image": "assets/references/9_ref1.png",
+        "audio": "assets/audio/9_ref1.wav",
+        "width": 512,
+        "height": 512,
+        "sha256": "c2427f5dc9ae835d6cba20c607a573d7c12681195300534dc2a7dd23e31cdf37"
+      }
+    ],
+    "outputs": [
+      {
+        "method": "ltx-ingredients",
+        "label": "LTX-Ingredients",
+        "video": "assets/videos/ltx-ingredients/9.mp4",
+        "poster": "assets/posters/ltx-ingredients/9.jpg",
+        "source_filename": "9.mp4",
+        "source_directory_name": "baseline_ic_lora_ingredients",
+        "duration_seconds": 15.041667,
+        "width": 768,
+        "height": 448,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 2436348,
+        "sha256": "0168d27a26ff11165b6866aaa5cbc37c400747af66307a158d271008aae9e364"
+      },
+      {
+        "method": "dreamid-omni",
+        "label": "DreamID-Omni",
+        "video": "assets/videos/dreamid-omni/9.mp4",
+        "poster": "assets/posters/dreamid-omni/9.jpg",
+        "source_filename": "9.mp4",
+        "source_directory_name": "dreamid-omni_v0",
+        "duration_seconds": 15.25,
+        "width": 1280,
+        "height": 704,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 2539119,
+        "sha256": "593f0c09134edf5a8627c24e05af7c8c537af17a244450a12d7d9a7075d31ce2"
+      },
+      {
+        "video": "assets/videos/9.mp4",
+        "poster": "assets/posters/9.jpg",
+        "duration_seconds": 15.041667,
+        "width": 1344,
+        "height": 768,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 5989102,
+        "sha256": "cfbb886250e8b42fbb894a7cb880d225a148515304945e0e3d6bbf174a69eba6",
+        "method": "cineref",
+        "label": "CineRef",
+        "source_filename": "9.mp4"
+      }
+    ],
+    "comparison_note": "Original durations and resolutions differ. Clips are paired by sample ID, not frame-aligned."
+  },
+  {
+    "sample": 36,
+    "video": "assets/videos/36.mp4",
+    "poster": "assets/posters/36.jpg",
+    "duration_seconds": 10.041667,
+    "width": 1728,
+    "height": 960,
+    "fps": "24/1",
+    "codec": "h264",
+    "audio_codecs": [
+      "aac"
+    ],
+    "size_bytes": 4780805,
+    "sha256": "c44953f49ed49ee86a4455e97d4bef01c468451366d59790030d4a78fb333302",
+    "references": [
+      {
+        "slot": 0,
+        "image": "assets/references/36_ref0.png",
+        "audio": "assets/audio/36_ref0.wav",
+        "width": 512,
+        "height": 512,
+        "sha256": "b707e564f6169433747e618bcc0a8bf0ca3dc206b338b4a3208b269ee02416ed"
+      },
+      {
+        "slot": 1,
+        "image": "assets/references/36_ref1.png",
+        "audio": "assets/audio/36_ref1.wav",
+        "width": 320,
+        "height": 417,
+        "sha256": "f9de2fb6ece0a1a06f996b569d6488cb9513dc4f5761a5e019be42fce9035fbd"
+      }
+    ],
+    "outputs": [
+      {
+        "method": "ltx-ingredients",
+        "label": "LTX-Ingredients",
+        "video": "assets/videos/ltx-ingredients/36.mp4",
+        "poster": "assets/posters/ltx-ingredients/36.jpg",
+        "source_filename": "36.mp4",
+        "source_directory_name": "baseline_ic_lora_ingredients",
+        "duration_seconds": 15.041667,
+        "width": 768,
+        "height": 448,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 2140330,
+        "sha256": "ff686b746153398ad3016f27a68f0940a9056b476a191366319956d5c475a020"
+      },
+      {
+        "method": "dreamid-omni",
+        "label": "DreamID-Omni",
+        "video": "assets/videos/dreamid-omni/36.mp4",
+        "poster": "assets/posters/dreamid-omni/36.jpg",
+        "source_filename": "36.mp4",
+        "source_directory_name": "dreamid-omni_v0",
+        "duration_seconds": 15.25,
+        "width": 1280,
+        "height": 704,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 2687984,
+        "sha256": "8e622e84c95095e5e86041844a519f06f3e857f71f7386d0ff5545885ee89aad"
+      },
+      {
+        "video": "assets/videos/36.mp4",
+        "poster": "assets/posters/36.jpg",
+        "duration_seconds": 10.041667,
+        "width": 1728,
+        "height": 960,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 4780805,
+        "sha256": "c44953f49ed49ee86a4455e97d4bef01c468451366d59790030d4a78fb333302",
+        "method": "cineref",
+        "label": "CineRef",
+        "source_filename": "36.mp4"
+      }
+    ],
+    "comparison_note": "Duration mismatch: CineRef is 10.04 s; LTX-Ingredients is 15.04 s; DreamID-Omni is 15.25 s. These supplied clips are not a matched-duration comparison."
+  },
+  {
+    "sample": 39,
+    "video": "assets/videos/39.mp4",
+    "poster": "assets/posters/39.jpg",
+    "duration_seconds": 15.041667,
+    "width": 1344,
+    "height": 768,
+    "fps": "24/1",
+    "codec": "h264",
+    "audio_codecs": [
+      "aac"
+    ],
+    "size_bytes": 5414578,
+    "sha256": "27d5e5ecd7a2a64ea576b5cc73e5092ee6754e8f2df4ca7da358fd4afe247515",
+    "references": [
+      {
+        "slot": 0,
+        "image": "assets/references/39_ref0.png",
+        "audio": "assets/audio/39_ref0.wav",
+        "width": 512,
+        "height": 512,
+        "sha256": "45a59c7b345928bb53c81503471427277082221b4575782d2820776217d209eb"
+      },
+      {
+        "slot": 1,
+        "image": "assets/references/39_ref1.png",
+        "audio": "assets/audio/39_ref1.wav",
+        "width": 320,
+        "height": 450,
+        "sha256": "00082770ed0abf514f4c0285ab5b6b39e13d9223e6ef5756683c1f148ba15601"
+      }
+    ],
+    "outputs": [
+      {
+        "method": "ltx-ingredients",
+        "label": "LTX-Ingredients",
+        "video": "assets/videos/ltx-ingredients/39.mp4",
+        "poster": "assets/posters/ltx-ingredients/39.jpg",
+        "source_filename": "39.mp4",
+        "source_directory_name": "baseline_ic_lora_ingredients",
+        "duration_seconds": 15.041667,
+        "width": 768,
+        "height": 448,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 2382803,
+        "sha256": "45e4835516cdcc360ab26c71de2fef3fce85b7bebe6d6b127c657f74bf9f8611"
+      },
+      {
+        "method": "dreamid-omni",
+        "label": "DreamID-Omni",
+        "video": "assets/videos/dreamid-omni/39.mp4",
+        "poster": "assets/posters/dreamid-omni/39.jpg",
+        "source_filename": "39.mp4",
+        "source_directory_name": "dreamid-omni_v0",
+        "duration_seconds": 15.25,
+        "width": 1280,
+        "height": 704,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 3815075,
+        "sha256": "c885d80975b0f518d314530e8124b6c838c939c06c3e8ede1b1bf0fef7de1cfe"
+      },
+      {
+        "video": "assets/videos/39.mp4",
+        "poster": "assets/posters/39.jpg",
+        "duration_seconds": 15.041667,
+        "width": 1344,
+        "height": 768,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 5414578,
+        "sha256": "27d5e5ecd7a2a64ea576b5cc73e5092ee6754e8f2df4ca7da358fd4afe247515",
+        "method": "cineref",
+        "label": "CineRef",
+        "source_filename": "39.mp4"
+      }
+    ],
+    "comparison_note": "Original durations and resolutions differ. Clips are paired by sample ID, not frame-aligned."
+  },
+  {
+    "sample": 40,
+    "video": "assets/videos/40.mp4",
+    "poster": "assets/posters/40.jpg",
+    "duration_seconds": 15.041667,
+    "width": 1344,
+    "height": 768,
+    "fps": "24/1",
+    "codec": "h264",
+    "audio_codecs": [
+      "aac"
+    ],
+    "size_bytes": 3154120,
+    "sha256": "1ca92527101f5047075defd5144a603c0cc37bde72fdc7dab9aef9c0caaf9ae9",
+    "references": [
+      {
+        "slot": 0,
+        "image": "assets/references/40_ref0.png",
+        "audio": "assets/audio/40_ref0.wav",
+        "width": 481,
+        "height": 618,
+        "sha256": "1adf494a2268dd1a72131856707a6320668d29cb3c5ded7a7468263b166fafb1"
+      },
+      {
+        "slot": 1,
+        "image": "assets/references/40_ref1.png",
+        "audio": "assets/audio/40_ref1.wav",
+        "width": 1152,
+        "height": 1140,
+        "sha256": "a3cbe88c09fcb3ab25e3cc458667afb9d22f060f078790193a7aab65dd691226"
+      }
+    ],
+    "outputs": [
+      {
+        "method": "ltx-ingredients",
+        "label": "LTX-Ingredients",
+        "video": "assets/videos/ltx-ingredients/40.mp4",
+        "poster": "assets/posters/ltx-ingredients/40.jpg",
+        "source_filename": "40.mp4",
+        "source_directory_name": "baseline_ic_lora_ingredients",
+        "duration_seconds": 15.041667,
+        "width": 768,
+        "height": 448,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 1964785,
+        "sha256": "e7ba801c3f2c6dddbcaa18cab4767c8eab7bfed725f4dc606a12e92047b98fc4"
+      },
+      {
+        "method": "dreamid-omni",
+        "label": "DreamID-Omni",
+        "video": "assets/videos/dreamid-omni/40.mp4",
+        "poster": "assets/posters/dreamid-omni/40.jpg",
+        "source_filename": "40.mp4",
+        "source_directory_name": "dreamid-omni_v0",
+        "duration_seconds": 15.25,
+        "width": 1280,
+        "height": 704,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 2489822,
+        "sha256": "2e0e50b3770257a651de6a448ece0b6fcbe1a73863fa83dbbac8bd3c2f25156b"
+      },
+      {
+        "video": "assets/videos/40.mp4",
+        "poster": "assets/posters/40.jpg",
+        "duration_seconds": 15.041667,
+        "width": 1344,
+        "height": 768,
+        "fps": "24/1",
+        "codec": "h264",
+        "audio_codecs": [
+          "aac"
+        ],
+        "size_bytes": 3154120,
+        "sha256": "1ca92527101f5047075defd5144a603c0cc37bde72fdc7dab9aef9c0caaf9ae9",
+        "method": "cineref",
+        "label": "CineRef",
+        "source_filename": "40.mp4"
+      }
+    ],
+    "comparison_note": "Original durations and resolutions differ. Clips are paired by sample ID, not frame-aligned."
+  }
+]
