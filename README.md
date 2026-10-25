@@ -25,14 +25,14 @@
 
 - [10/24/2026] 🔥 Project page and qualitative comparisons are released.
 
+## Overview
+
+Reference-guided audio-video generation should preserve who appears and who speaks, even as the camera moves and the shot changes. CineRef links references to generated content during training and keeps them consistent across the whole clip, targeting identity drift, copy-and-paste artifacts, and unreliable audio-visual correspondence under large camera motion and frequent shot transitions.
+
 ## 🎬 Demo
 
 Each example pairs two reference people with their own reference voice (`<id>_ref0.wav` for reference 0, `<id>_ref1.wav` for reference 1), and the same pair conditions all three methods. Click a reference image to open the original file, or a voice file to open it in the browser's built-in audio player and listen on its own. GitHub does not allow inline audio players in README files.
 
-
-## Overview
-
-Reference-guided audio-video generation should preserve who appears and who speaks, even as the camera moves and the shot changes. CineRef links references to generated content during training and keeps them consistent across the whole clip, targeting identity drift, copy-and-paste artifacts, and unreliable audio-visual correspondence under large camera motion and frequent shot transitions.
 | Reference 0 | Reference 1 |
 |:--:|:--:|
 | <a href="assets/references/40_ref0.png"><img src="assets/references/thumbs/40_ref0.png" width="96" height="96" alt="Example 40 reference 0"></a><br>[40_ref0.wav](https://github.com/zqhang/CineRef/raw/main/assets/audio/40_ref0.wav) | <a href="assets/references/40_ref1.png"><img src="assets/references/thumbs/40_ref1.png" width="96" height="96" alt="Example 40 reference 1"></a><br>[40_ref1.wav](https://github.com/zqhang/CineRef/raw/main/assets/audio/40_ref1.wav) |
